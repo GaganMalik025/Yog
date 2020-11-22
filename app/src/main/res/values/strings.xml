@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Yog</string>
+    <string name="level_string">Level : 7</string>
+    <string name="yog_pnts">Yoga Points : 523</string>
+    <string name="comp_string">Competitions in your Area :</string>
+    <string name="comp_1">Virtuo 2.0</string>
+    <string name="comp_2">MathWorks</string>
+    <string name="title_activity_main2">MainActivity_2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
