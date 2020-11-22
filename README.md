@@ -1,1 +1,2 @@
 We have created an app Yog. It helps to correct your yoga postures. It uses Tensorflow posture estimation API to detect key points of the human body in a video stream. Then the posture is matched with the images of yoga postures. The application tells what percentage of body posture is matched with that in the image.
+We refer to pose detection API by TensorFlow : https://github.com/tensorflow/examples/tree/master/lite/examples/posenet/android
